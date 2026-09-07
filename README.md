@@ -9,8 +9,7 @@ THIS PROJECT IS AI-FREE.
 
 #### Installation:
 before doing anything, set your username and email in git:
-> git config --global user.name "ENTER YOUR FULL NAME HERE"
-> git config --global user.email "ENTER YOUR EMAIL HERE"
+> git config --global user.name "ENTER YOUR FULL NAME HERE" && git config --global user.email "ENTER YOUR EMAIL HERE"
 
 then, download the script.py file and run it with:
 > python3 script.py
